@@ -1,4 +1,4 @@
-# Análisis de Exoplanetas 🪐
+# Análisis de Exoplanetas 
 
 Este proyecto consiste en un análisis riguroso sobre variables cuantitativas que determinan las características de exoplanetas (temperatura, densidad estelar, metalicidad, etc.). El análisis permitió verificar comportamientos, relaciones intrínsecas y reafirmar hipótesis de modelos astronómicos ya publicados.
 
@@ -33,5 +33,5 @@ Este proyecto consiste en un análisis riguroso sobre variables cuantitativas qu
 *Observación: Existen diferencias muy significativas entre los grupos de metalicidad (Baja, Solar, Alta). La probabilidad de que esto sea por azar es prácticamente 0%.*
 
 ---
-**🚀 Explora el código completo en Google Colab:**
+** Código completo en Google Colab:**
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ZwfL6D75Uv-tphZF_-nB0vWdfHR42ZyD?usp=sharing)
