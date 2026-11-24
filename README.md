@@ -2,19 +2,19 @@
 
 Este proyecto consiste en un análisis riguroso sobre variables cuantitativas que determinan las características de exoplanetas (temperatura, densidad estelar, metalicidad, etc.). El análisis permitió verificar comportamientos, relaciones intrínsecas y reafirmar hipótesis de modelos astronómicos ya publicados.
 
-## 🛠️ Herramientas Utilizadas
+##  Herramientas Utilizadas
 - **Lenguaje:** R (ejecutado en Google Colab)
 - **Librerías principales:** `tidyverse`, `readr`, `dplyr`, `ggplot2`
 - **Entorno:** Google Colab
 
-## 📊 Principales Hallazgos
+## Principales Hallazgos
 - Se observó que los planetas gigantes tienden a tener una metalicidad estelar ligeramente superior en comparación con los no gigantes.
 - No se encontró una relación lineal fuerte entre la metalicidad ([Fe/H]) y la excentricidad en los datos filtrados, aunque se notan ligeros patrones.
 - Se encontró que el año con más planetas descubiertos fue en 2016 con 1504 planetas.
 - Se reafirmó la relación entre una alta metalicidad estelar y la presencia de planetas gigantes gaseosos.
 - Se comprobó la prueba de Kruskal-Wallis: El resultado obtenido fue p < 2.2e-16. Lo que nos dice que existen diferencias muy significativas entre los grupos de metalicidad (Baja, Solar, Alta). La probabilidad de que esto sea por azar es prácticamente 0%.
 
-## 🖼️ Visualizaciones Destacadas
+## Visualizaciones Destacadas
 
 **1. Distribución de metalicidad (Gigantes vs No Gigantes)**
 ![Grafico densidad](https://github.com/user-attachments/assets/d69c333f-d26e-44ae-a7c5-3d493f5ec397)
